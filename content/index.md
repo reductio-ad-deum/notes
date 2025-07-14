@@ -20,7 +20,7 @@ Here you’ll find reflections on Scripture, notes on spiritual reading, persona
 
 ## ✨ Start Here
 You can view my notes using the navigation pane on the left.  It's broken down into topics, some of which have tables or maps of content, others which are more zettlekasten style.
-- [[03-00 Lection Divina|Lectio Divina Index]] — My prayerful readings of Scripture
+- [[Lection Divina TOC|Lectio Divina Index]] — My prayerful readings of Scripture
 - Journal — Personal reflections and spiritual growth
 - [[06-00 Reading Notes|Reading Notes]] — Notes on books, articles, and Church documents
 - Resources — Prayers, liturgical materials, and more available 
