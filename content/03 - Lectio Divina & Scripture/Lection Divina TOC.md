@@ -7,7 +7,8 @@ tags:
 date: 2025-06-25
 status: in-progress
 publish: true
-aliases:
+aliases: 
+title: Lection Divina TOC
 ---
 # Lectio Divina
 
