@@ -1,18 +1,13 @@
-# Quartz v4
+# 📖 Hypomnemata: 
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+> “The writing of hypomnēmata was thus a way of training oneself to live in the present, of keeping at hand the essential truths which could transform existence.” — Pierre Hadot
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+This is a digital notebook created using Obsidian.md and Quartz focused on personal and spiritual development.  The title, Reductio ad Deum, signifies a return to God, a reorientating and reorienting to that core principle.  I am a long-time student of philosophy, who rather unexpctedly found myself with a call to "face up" and return to God.  I am working through this process and journey in real-time, and with the door open.  
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+🔗 Read the documentation for:
+- Obsidian:  https://obsidian.md/
+- Quartz: https://quartz.jzhao.xyz/
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
 
-## Sponsors
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+
