@@ -1,3 +1,11 @@
 @use "./base.scss";
 
 // put your custom CSS here!
+:root {
+  --bg: #eff1f5;           /* Background */
+  --fg: #4e4e69;           /* Foreground text */
+  --accent: #b99a88;       /* Links and accents */
+  --accent-muted: #e9e6e8; /* Hover/focus states */
+  --muted: #777777;        /* Muted text */
+  --border: #dddddd;       /* Border color */
+}
