@@ -95,7 +95,6 @@ const config: QuartzConfig = {
 }
 siteMetadata: {
   name: "Reductio ad Deum",
-  description: "Notes on faith, practice, and devotion.",
   logo: "/static/logo.png"
 },
 
