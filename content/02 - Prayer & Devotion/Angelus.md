@@ -13,15 +13,15 @@ cssclasses:
 > V. The Angel of the Lord declared unto Mary,  
 > R. And she conceived of the Holy Spirit.
 
-_(**[[Hail Mary]], full of grace,**  
-the Lord is with thee;  
-blessed art thou among women,  
-and blessed is the fruit of thy womb, Jesus.
+***[[Hail Mary]], full of grace,***
+*the Lord is with thee;*  
+*blessed art thou among women,*  
+*and blessed is the fruit of thy womb, Jesus.*
 
-Holy Mary, Mother of God,  
-pray for us sinners,  
-now and at the hour of our death.  
-**Amen.**)_
+*Holy Mary, Mother of God,*  
+*pray for us sinners,*  
+*now and at the hour of our death.*  
+***Amen.***
 
 > V. Behold the handmaid of the Lord.  
 > R. Be it done unto me according to thy word.
@@ -45,15 +45,15 @@ Pour forth, we beseech Thee, O Lord, Thy grace into our hearts; that we, to whom
 > V. Angelus Domini nuntiavit Mariae,  
 > R. Et concepit de Spiritu Sancto.
 
-_(**Áve María, grátia pléna,**  
-Dóminus técum;  
-benedícta tu in muliéribus,  
-et benedíctus frúctus véntris túi, Iésus.
+***Áve María, grátia pléna,***  
+*Dóminus técum;*  
+*benedícta tu in muliéribus,*  
+*et benedíctus frúctus véntris túi, Iésus.*
 
-Sáncta María, Máter Déi,  
-óra pro nóbis peccatóribus,  
-núnc et in hóra mórtis nóstrae.  
-**Amen.**)_
+*Sáncta María, Máter Déi,*  
+*óra pro nóbis peccatóribus,*  
+*núnc et in hóra mórtis nóstrae.*  
+***Amen.***
 
 > V. Ecce ancilla Domini.  
 > R. Fiat mihi secundum verbum tuum.
