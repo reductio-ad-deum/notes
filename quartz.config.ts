@@ -93,9 +93,5 @@ const config: QuartzConfig = {
     ],
   },
 }
-siteMetadata: {
-  name: "Reductio ad Deum",
-  logo: "/static/logo.png"
-},
 
 export default config
