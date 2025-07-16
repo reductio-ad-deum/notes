@@ -1,6 +1,11 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+siteMetadata: {
+  name: "Reductio ad Deum",
+  description: "Notes on faith, practice, and devotion.",
+  logo: "/static/logo.png"
+},
 /**
  * Quartz 4 Configuration
  *
