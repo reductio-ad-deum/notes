@@ -60,6 +60,6 @@ There are about nine sections of the Catechism that use the word “consubstanti
 
 ### **VI. Conclusion**
 
-The history of this one word, _consubstantial_, shows how much weight the choices of translators can carry. Whether it’s rendered “consubstantial,” “one in being,” or “of the same essence,” the phrase affirms that the Son (with the Holy Spirit) is fully God, equal to the Father, and sharing the same divine nature. This truth stood at the center of the Church’s defense against heresies that would have significantly shift the Christian understanding of God altogether.
+The history of this one word, _consubstantial_, shows how much weight the choices of translators can carry. Whether it’s rendered “consubstantial,” “one in being,” or “of the same essence,” the phrase affirms that the Son (with the Holy Spirit) is fully God, equal to the Father, and sharing the same divine nature. This truth stood at the center of the Church’s defense against heresies that would have significantly shifted the Christian understanding of God altogether.
 
 We may not always feel the force of that precision when we recite the Creed on Sundays, but it remains a cornerstone of our faith. In the end, perhaps the very difficulty of this word is an invitation: to dig deeper, to reflect more seriously, and to recognize that some mysteries of faith will always exceed the reach of our simplest language.
