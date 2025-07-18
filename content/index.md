@@ -9,6 +9,7 @@ status:
 publish: true
 cssclasses:
   - dashboard
+  - no-title
 title:
 ---
 # Welcome to my **_Hypomnemata_**
