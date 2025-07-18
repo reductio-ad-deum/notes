@@ -1,6 +1,7 @@
 import { pathToRoot } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import { classNames } from "../util/lang"
+import { joinSegments } from "../util/path"
 import { i18n } from "../i18n"
 
 const PageTitle: QuartzComponent = ({ fileData, cfg, displayClass }: QuartzComponentProps) => {
@@ -21,6 +22,13 @@ PageTitle.css = `
   font-size: 1.75rem;
   margin: 0;
   font-family: var(--titleFont);
+}
+.Logo {
+  max-height: 195px;
+  min-height: 50px;
+  max-width: 212px;
+  min-width: 50px;
+  margin: 0;
 }
 `
 
