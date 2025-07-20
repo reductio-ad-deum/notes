@@ -24,8 +24,8 @@ show unto us the blessed fruit of your womb, Jesus.
 
 O clement, O loving, O sweet Virgin Mary.
 
-**V.** Pray for us, O holy Mother of God.  
-**R.** That we may be made worthy of the promises of Christ.
+**℣.** Pray for us, O holy Mother of God.  
+**℟..** That we may be made worthy of the promises of Christ.
 
 ## Salve Regina (Latin)
 ----
@@ -45,5 +45,5 @@ nóbis post hoc exsílium osténde.
 
 O clemens, O pia, O dulcis Vírgo María.
 
-**V.** Ora pro nobis, sancta Dei Génitrix.  
-**R.** Ut digni efficiámur promissiónibus Christi.
+**℣.** Ora pro nobis, sancta Dei Génitrix.  
+**℟..** Ut digni efficiámur promissiónibus Christi.
