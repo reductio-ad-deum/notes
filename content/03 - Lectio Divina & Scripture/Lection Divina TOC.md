@@ -29,6 +29,7 @@ Notes are organized according to the canonical order of the Catholic Bible to su
 ### The Pentateuch
 - Genesis
 	- [[Lectio - Genesis 18.1-10a|18:1-10a]]
+	- [[Lectio - Genesis 18.20-32|18:20-32]]
 	- [[Lectio - Genesis 19.15-29|19:15-29]]
 - Exodus
 - Leviticus
@@ -94,6 +95,7 @@ Notes are organized according to the canonical order of the Catholic Bible to su
 	- [[Lectio - Luke 10.1-12, 17-20|10:17-20]]
 	- [[Lectio - Luke 10.25-37|10:25-37]]
 	- [[Lectio - Luke 10.38-42|10:38-42]]
+	- [[Lectio - Luke 11.1-13|11:1-13]]
 - John
 ### Acts & Letters
 #### History

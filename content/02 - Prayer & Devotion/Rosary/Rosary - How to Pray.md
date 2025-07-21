@@ -25,7 +25,7 @@ cssclasses:
 
 **5. Pray one [[Glory Be]].**
 - After the three Hail Marys.
-_(Some people also add the Fatima Prayer here: “O my Jesus, forgive us our sins…”—this is optional.)_
+_(Some people also add the [[Fatima Prayer]] here: “O my Jesus, forgive us our sins…”—this is optional.)_
 
 **6. Announce the First Mystery.**
 - For example: _The Annunciation_ (if you’re praying the Joyful Mysteries).
@@ -50,3 +50,7 @@ _(Some people also add the Fatima Prayer here: “O my Jesus, forgive us our sin
 **12. Conclude with the closing prayer:**
 - _O God, whose only begotten Son…_ (the Rosary Closing Prayer).
 - Then finish with the [[Sign of the Cross]].
+
+# Daily Schedule
+---
+![[Rosary - Schedule of Mysteries#^9ed9a2]]
