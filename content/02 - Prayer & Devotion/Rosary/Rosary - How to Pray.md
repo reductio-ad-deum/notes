@@ -47,7 +47,7 @@ _(Some people also add the [[Fatima Prayer]] here: “O my Jesus, forgive us our
 **11. After completing all five decades:**
 - Pray the [[Salve Regina|Hail Holy Queen]].
 
-**12. Conclude with the closing prayer:**
+**12. Conclude with the [[Rosary Closing Prayer|closing prayer]]:**
 - _O God, whose only begotten Son…_ (the Rosary Closing Prayer).
 - Then finish with the [[Sign of the Cross]].
 

@@ -1,0 +1,28 @@
+---
+type: prayer
+category: 
+tags:
+  - saint-michael
+date: 2025-08-04 19:28
+status: 
+publish: true
+cssclasses:
+---
+# Prayer to St. Michael
+----
+St. Michael the Archangel,  
+defend us in battle.  
+Be our defense against the wickedness  
+and snares of the Devil.  
+May God rebuke him, we humbly pray,  
+and do thou, O Prince of the heavenly hosts,  
+by the power of God,  
+thrust into hell Satan,  
+and all the evil spirits,  
+who prowl about the world  
+seeking the ruin of souls. 
+
+Amen.
+
+---
+Source

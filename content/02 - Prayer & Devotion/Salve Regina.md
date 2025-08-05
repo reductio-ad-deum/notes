@@ -13,14 +13,14 @@ aliases:
 
 Hail, holy Queen, Mother of mercy,  
 our life, our sweetness, and our hope.  
-To you do we cry, poor banished children of Eve.  
-To you do we send up our sighs,  
+To thee do we cry, poor banished children of Eve.  
+To thee do we send up our sighs,  
 mourning and weeping in this valley of tears.
 
 Turn then, most gracious advocate,  
-your eyes of mercy toward us;  
+thine eyes of mercy toward us;  
 and after this, our exile,  
-show unto us the blessed fruit of your womb, Jesus.
+show unto us the blessed fruit of thy womb, Jesus.
 
 O clement, O loving, O sweet Virgin Mary.
 
