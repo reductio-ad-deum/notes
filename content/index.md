@@ -22,11 +22,12 @@ Here you’ll find reflections on Scripture, notes on spiritual reading, persona
 
 ## ✨ Start Here
 You can view my notes using the navigation pane on the left.  It's broken down into topics, some of which have tables or maps of content, others which are more zettlekasten style.
+
 - [[Lection Divina TOC|Lectio Divina Index]] — My prayerful readings of Scripture
 - [[Personal Translation project TOC|Personal Translation Project]] — A personal translation of the New Testament from the Greek.
-- Journal — Personal reflections and spiritual growth
 - [[06-00 Reading Notes|Reading Notes]] — Notes on books, articles, and Church documents
 - Resources — Prayers, liturgical materials, and more available 
+- Longer-format writing — Has been migrated to [Substack](http://reductioaddeum.substack.com/). 
 
 ---
 
@@ -35,4 +36,5 @@ You can view my notes using the navigation pane on the left.  It's broken down i
 > **Email**:  reductio-ad-deum[at]protonmail[dot]com
 > **reddit**: [u/reductio-ad-deum](https://www.reddit.com/user/reductio-ad-deum/)
 > **web**:  www.reductio-ad-deum.com
+> **Substack**: http://reductioaddeum.substack.com/
 
