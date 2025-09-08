@@ -12,4 +12,4 @@ cssclasses:
 Lord, thank your for this time with your Word. Allow understanding to enter our minds and hearts, and change those minds and hearts that we may better emulate your Son, Lord Jesus Christ. Amen. ^7867f9
 
 ---
-**Written by:**  Reductio ad Deum
+**©** Reductio ad Deum, 2025.
